@@ -15,7 +15,7 @@ Quer ver o que está por vir? [Acompanhe aqui o projeto mobile](https://github.c
 
 ## Versionamento
 
-Esse projeto não possui um sistema de versionamento.
+Esse projeto possui um sistema de versionamento utilizando a ferramenta [GitFlow](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04)
 
 ## Histórico
 Dê uma olhada na aba [Releases](https://github.com/bernardoveras/juntapay/releases) pra acompanhar as alterações feitas no projeto.
